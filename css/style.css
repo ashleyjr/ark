@@ -118,17 +118,17 @@ header {
 
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
-	border-top:4px solid #89c236;
-  	background: #89c236 !important;		
+	border-top:4px solid #5DBCD2;
+  	background: #5DBCD2 !important;		
   	color: #fff;
 }
 
 .navbar .nav > .active > a,
 .navbar .nav > .active > a:hover,
 .navbar .nav > .active > a:focus {
-  	color: #89c236;
+  	color: #5DBCD2;
   	text-decoration: none;
-	border-top:4px solid #89c236;
+	border-top:4px solid #5DBCD2;
   	background-color: #fff !important;	
   	-webkit-box-shadow: none;
        -moz-box-shadow: none;
@@ -139,13 +139,13 @@ header {
 .dropdown-menu li > a:focus,
 .dropdown-submenu:hover > a {
   color: #ffffff;
-  background: #89c236 !important;	
+  background: #5DBCD2 !important;	
 }
 
 .dropdown-menu .active > a,
 .dropdown-menu .active > a:hover {
   color: #ffffff;
-  background: #89c236 !important;	
+  background: #5DBCD2 !important;	
 }
 
 .navbar .btn-navbar {
