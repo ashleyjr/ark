@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .title h1, .title h2, .title h3, .title h4, .title h5, .title h6 {
-	border-bottom: 5px double #89c236 !important;
+	border-bottom: 5px double #5DBCD2!important;
 	margin-bottom: -4px !important;
 	display: inline-block !important;
 	padding: 0px 10px !important;
@@ -1230,7 +1230,7 @@ form#newsletter input[type=text] {
 }
 	
 form#newsletter input[type=submit] {
-	background: #89c236;
+	background: #5DBCD2;
 	color: #fff;
 	width: 25%;
 	float: left;
