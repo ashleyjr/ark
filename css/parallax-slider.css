@@ -9,6 +9,19 @@
     font-style: normal;
 }
 
+
+@font-face {
+   font-family: Molleat;
+   src: url("fonts/Molleat-Regular.otf") format("opentype");
+}
+
+@font-face {
+   font-family: Om-Telolet-Om;
+   src: url("fonts/Om-Telolet-Om.otf") format("opentype");
+}
+
+
+
 .da-slider{
 	width: 100%;
 	height: 400px;
@@ -32,7 +45,7 @@
 	width: 960px;
 	height: 100%;
 	left: 50%;
-	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+	font-family: 'Om-Telolet-Om';
 	text-align: left;
 	margin-left: -480px;
 }
@@ -71,7 +84,7 @@
 	white-space: nowrap;
 	z-index: 10;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
-	font-family: 'Economica', Arial, sans-serif;
+	font-family: 'Om-Telolet-Om';
 	font-weight: 700;
 }
 .da-slide p{
@@ -82,7 +95,7 @@
 	line-height: 26px;
 	height: 80px;
 	font-style: italic;
-	font-family: 'Economica', Arial, sans-serif;
+	font-family: 'Om-Telolet-Om';
 	font-weight: 400;
 	font-style: italic;
 }
