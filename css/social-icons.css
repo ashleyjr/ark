@@ -596,7 +596,7 @@
 }
 
 .social-facebook-hover { 
-	background: #3b5998 url(../img/icons/social_big/facebook_white.png) no-repeat;
+	background: #5DBCD2 url(../img/icons/social_big/facebook_white.png) no-repeat;
 }
 
 .social-flickr { 
@@ -614,6 +614,15 @@
 .social-html5-hover { 
 	background: #f3642c url(../img/icons/social_big/html5_white.png) no-repeat;
 }
+
+.social-insta { 
+	background: #f6f6f6 url(../img/icons/social_big/insta_grey.png) no-repeat;
+}
+
+.social-insta-hover { 
+	background: #5DBCD2 url(../img/icons/social_big/insta_white.png) no-repeat;
+}
+
 
 .social-lastfm { 
 	background: #f6f6f6 url(../img/icons/social_big/lastfm_grey.png) no-repeat;
