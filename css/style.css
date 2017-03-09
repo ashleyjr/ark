@@ -21,12 +21,7 @@
 
 @font-face {
    font-family: Molleat;
-   src: url("fonts/Molleat-Regular.otf") format("opentype");
-}
-
-@font-face {
-   font-family: Om-Telolet-Om;
-   src: url("fonts/Om-Telolet-Om.otf") format("opentype");
+   src: url("Courgette-Regular.ttf") format("opentype");
 }
 
 .clear {

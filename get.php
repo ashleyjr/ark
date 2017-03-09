@@ -16,7 +16,7 @@ if (strlen($_POST['query']) !== 0){
 }
 
 // Send email	
-$To = 'ashley181291@gmail.com';
+$To = 'sammiesark@gmail.com';
 $Subject = 'A new website query';
 $Headers = "From: sammiesark.co.uk \r\n";
 mail($To, $Subject, $Message, $Headers);
